@@ -239,3 +239,6 @@ This repository serves as the official landing page for Horizon. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Horizon today!**
+
+---
+**Last updated:** 2026-09-11 10:08:12 UTC

@@ -241,4 +241,4 @@ This repository serves as the official landing page for Horizon. The software is
 **Get the most recent version of Horizon today!**
 
 ---
-**Last updated:** 2026-09-30 23:17:55 UTC
+**Last updated:** 2026-10-01 02:51:57 UTC
